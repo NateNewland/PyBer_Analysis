@@ -1,8 +1,8 @@
 # Purpose
 We were tasked with making a program that would analyize the ride sharing data of our PyBer module. We needed to show fare rates, ridership and what types of cities PyBer Operates in; Also we needed to show visualizations of the data we gathered and improve access to underserved areas of the regions we are looking at. 
 
-##Results\n
-![image](https://user-images.githubusercontent.com/91299736/139333952-290824ed-c7c2-475f-84e7-4115819929df.png)
+##Results  
+![image](https://user-images.githubusercontent.com/91299736/139333952-290824ed-c7c2-475f-84e7-4115819929df.png)  
 
 By reviewing the summary we can see that there are several key findings including:
 
